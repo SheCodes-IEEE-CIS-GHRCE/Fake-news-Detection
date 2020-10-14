@@ -1,1 +1,3 @@
 # Fake-news-Detection
+<h2 align="center">What are fake news?</h2>
+<p ><b> Fake news definition is made of two parts: authenticity and intent. Authenticity means that fake news content false information that can be verified as such, which means that conspiracy theory is not included in fake news as there are difficult to be proven true or false in most cases. The second part, intent, means that the false information has been written with the goal of misleading the reader.Fake news has quickly become a society problem, being used to propagate false or rumour information in order to change peoples behaviour.</b></p>
