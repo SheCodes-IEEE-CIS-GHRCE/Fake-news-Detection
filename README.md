@@ -7,7 +7,7 @@
 <p>2. Read the data into a DataFrame, and get the shape of the data</p>
 <p>3. Get the labels from the DataFrame</p>
 <p>4. Split the dataset into training and testing sets</p>
-<p>5. Initialize a TfidfVectorizer and Fit and transform train set, transform test set</p>
+<p>5. Initialize a TfidfVectorizer and Fit and transform train set, transform test set/p>
 <p>6. Initialize a PassiveAggressiveClassifier , Predict on the test set and calculate accuracy </p>
 <p>7. print out a confusion matrix to gain insight into the number of false and true negatives and positives</p>
 <p><b>🔗Link for downloading dataset:- https://drive.google.com/file/d/1er9NJTLUA3qnRuyhfzuN0XUsoIC4a-_q/view</b></p>
